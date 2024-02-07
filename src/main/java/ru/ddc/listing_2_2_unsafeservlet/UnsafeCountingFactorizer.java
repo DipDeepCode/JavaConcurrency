@@ -1,5 +1,6 @@
 package ru.ddc.listing_2_2_unsafeservlet;
 
+import ru.ddc.annotations.NotThreadSafe;
 import ru.ddc.tools.Servlet;
 import ru.ddc.tools.ServletRequest;
 import ru.ddc.tools.ServletResponse;
@@ -17,6 +18,7 @@ updates). Хотя операция приращения ++count имеет ко
 В операциях «прочитать, изменить, записать» результирующее состояние
 является производным от предыдущего
 */
+@NotThreadSafe
 public class UnsafeCountingFactorizer implements Servlet {
     private long count = 0;
 

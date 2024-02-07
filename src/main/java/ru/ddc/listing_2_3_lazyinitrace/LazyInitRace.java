@@ -1,5 +1,7 @@
 package ru.ddc.listing_2_3_lazyinitrace;
 
+import ru.ddc.annotations.NotThreadSafe;
+
 /*
 Класс LazyInitRace содержит состояния гонки. Предположим, что потоки
 A и B выполняют метод getInstance в одно и то же время. A видит, что
@@ -13,7 +15,7 @@ A и B выполняют метод getInstance в одно и то же вре
 даже если метод getInstance предположительно должен всегда возвращать
 один и тот же экземпляр.
 */
-
+@NotThreadSafe
 public class LazyInitRace {
     private ExpensiveObject instance = null;
 

@@ -1,5 +1,6 @@
 package ru.ddc.listing_2_4_atomic;
 
+import ru.ddc.annotations.ThreadSafe;
 import ru.ddc.tools.Servlet;
 import ru.ddc.tools.ServletRequest;
 import ru.ddc.tools.ServletResponse;
@@ -15,6 +16,7 @@ import java.util.concurrent.atomic.AtomicLong;
 состояние сервлета является состоянием счетчика, а счетчик является
 потокобезопасным, наш сервлет становится потокобезопасным.
 */
+@ThreadSafe
 public class CountingFactorizer implements Servlet {
     private final AtomicLong count = new AtomicLong(0);
 

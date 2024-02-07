@@ -1,5 +1,7 @@
 package ru.ddc.listing_2_6_synchronizedservlet;
 
+import ru.ddc.annotations.GuardedBy;
+import ru.ddc.annotations.ThreadSafe;
 import ru.ddc.tools.Servlet;
 import ru.ddc.tools.ServletRequest;
 import ru.ddc.tools.ServletResponse;
@@ -14,9 +16,10 @@ import java.math.BigInteger;
 многочисленные клиенты больше не могут использовать сервлет одновременно,
 что приводит к неприемлемо низкой отзывчивости.
 */
+@ThreadSafe
 public class SynchronizedFactorizer implements Servlet {
-    private BigInteger lastNumber;
-    private BigInteger[] lastFactors;
+    @GuardedBy("this") private BigInteger lastNumber;
+    @GuardedBy("this") private BigInteger[] lastFactors;
     @Override
     public synchronized void service(ServletRequest req, ServletResponse resp) {
         BigInteger i = extractFromRequest(req);

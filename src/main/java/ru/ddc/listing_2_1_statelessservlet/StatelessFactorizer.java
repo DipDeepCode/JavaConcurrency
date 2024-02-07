@@ -1,5 +1,6 @@
 package ru.ddc.listing_2_1_statelessservlet;
 
+import ru.ddc.annotations.ThreadSafe;
 import ru.ddc.tools.Servlet;
 import ru.ddc.tools.ServletRequest;
 import ru.ddc.tools.ServletResponse;
@@ -15,7 +16,7 @@ import java.math.BigInteger;
 не может повлиять на результат другого потока, делающего то же самое,
 поскольку эти потоки не используют состояние совместно
 */
-
+@ThreadSafe
 public class StatelessFactorizer implements Servlet {
     @Override
     public void service(ServletRequest req, ServletResponse resp) {

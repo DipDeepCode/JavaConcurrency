@@ -1,5 +1,6 @@
 package ru.ddc.listing_2_5_unsafecaching;
 
+import ru.ddc.annotations.NotThreadSafe;
 import ru.ddc.tools.Servlet;
 import ru.ddc.tools.ServletRequest;
 import ru.ddc.tools.ServletResponse;
@@ -21,6 +22,7 @@ import java.util.concurrent.atomic.AtomicReference;
 значения другого. Следовательно, при обновлении одного необходимо
 обновлять другие в той же атомарной операции.
 */
+@NotThreadSafe
 public class UnsafeCachingFactorizer implements Servlet {
     private final AtomicReference<BigInteger> lastNumber = new AtomicReference<>();
     private final AtomicReference<BigInteger[]> lastFactors = new AtomicReference<>();
