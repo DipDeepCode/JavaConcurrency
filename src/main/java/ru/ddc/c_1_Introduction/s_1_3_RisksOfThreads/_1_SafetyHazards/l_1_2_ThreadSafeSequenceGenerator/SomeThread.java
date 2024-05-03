@@ -1,4 +1,4 @@
-package ru.ddc.listing_1_2;
+package ru.ddc.c_1_Introduction.s_1_3_RisksOfThreads._1_SafetyHazards.l_1_2_ThreadSafeSequenceGenerator;
 
 public class SomeThread extends Thread {
     private final Sequence sequence;
