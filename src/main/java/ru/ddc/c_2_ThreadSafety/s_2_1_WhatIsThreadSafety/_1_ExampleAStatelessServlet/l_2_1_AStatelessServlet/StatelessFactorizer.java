@@ -1,4 +1,4 @@
-package ru.ddc.listing_2_1_statelessservlet;
+package ru.ddc.c_2_ThreadSafety.s_2_1_WhatIsThreadSafety._1_ExampleAStatelessServlet.l_2_1_AStatelessServlet;
 
 import ru.ddc.annotations.ThreadSafe;
 import ru.ddc.tools.Servlet;
@@ -8,8 +8,8 @@ import ru.ddc.tools.ServletResponse;
 import java.math.BigInteger;
 
 /*
-Класс StatelessFactorizer, как и большинство сервлетов, не имеет внутрен-
-него состояния: не содержит полей и не ссылается на поля из других классов.
+Класс StatelessFactorizer, как и большинство сервлетов, не имеет
+внутреннего состояния: не содержит полей и не ссылается на поля из других классов.
 Состояние для конкретного вычисления существует только в локальных
 переменных, которые хранятся в потоковом стеке и доступны только для
 выполняющего потока. Один поток, обращающийся к Stateless Factorizer,
