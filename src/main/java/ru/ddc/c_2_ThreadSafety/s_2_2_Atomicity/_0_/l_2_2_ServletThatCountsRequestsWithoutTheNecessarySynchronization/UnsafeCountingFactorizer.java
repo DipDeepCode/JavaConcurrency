@@ -1,4 +1,4 @@
-package ru.ddc.listing_2_2_unsafeservlet;
+package ru.ddc.c_2_ThreadSafety.s_2_2_Atomicity._0_.l_2_2_ServletThatCountsRequestsWithoutTheNecessarySynchronization;
 
 import ru.ddc.annotations.NotThreadSafe;
 import ru.ddc.tools.Servlet;
