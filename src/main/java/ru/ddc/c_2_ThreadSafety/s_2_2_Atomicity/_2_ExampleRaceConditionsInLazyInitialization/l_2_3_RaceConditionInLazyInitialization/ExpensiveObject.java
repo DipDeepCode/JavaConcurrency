@@ -1,0 +1,4 @@
+package ru.ddc.c_2_ThreadSafety.s_2_2_Atomicity._2_ExampleRaceConditionsInLazyInitialization.l_2_3_RaceConditionInLazyInitialization;
+
+public class ExpensiveObject {
+}

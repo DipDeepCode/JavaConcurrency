@@ -1,4 +1,4 @@
-package ru.ddc.listing_2_3_lazyinitrace;
+package ru.ddc.c_2_ThreadSafety.s_2_2_Atomicity._2_ExampleRaceConditionsInLazyInitialization.l_2_3_RaceConditionInLazyInitialization;
 
 import ru.ddc.annotations.NotThreadSafe;
 
