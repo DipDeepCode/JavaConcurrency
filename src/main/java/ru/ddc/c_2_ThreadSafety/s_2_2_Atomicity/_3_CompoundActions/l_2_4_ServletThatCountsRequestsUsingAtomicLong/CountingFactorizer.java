@@ -1,4 +1,4 @@
-package ru.ddc.listing_2_4_atomic;
+package ru.ddc.c_2_ThreadSafety.s_2_2_Atomicity._3_CompoundActions.l_2_4_ServletThatCountsRequestsUsingAtomicLong;
 
 import ru.ddc.annotations.ThreadSafe;
 import ru.ddc.tools.Servlet;
