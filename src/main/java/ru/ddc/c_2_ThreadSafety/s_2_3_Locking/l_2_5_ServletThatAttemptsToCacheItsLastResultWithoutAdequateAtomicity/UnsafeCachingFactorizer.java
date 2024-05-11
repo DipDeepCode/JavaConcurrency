@@ -1,4 +1,4 @@
-package ru.ddc.listing_2_5_unsafecaching;
+package ru.ddc.c_2_ThreadSafety.s_2_3_Locking.l_2_5_ServletThatAttemptsToCacheItsLastResultWithoutAdequateAtomicity;
 
 import ru.ddc.annotations.NotThreadSafe;
 import ru.ddc.tools.Servlet;
