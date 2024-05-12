@@ -1,4 +1,4 @@
-package ru.ddc.listing_2_6_synchronizedservlet;
+package ru.ddc.c_2_ThreadSafety.s_2_3_Locking._1_IntrinsicLocks.l_2_6_ServletThatCachesLastResultButWithUnacceptablyPoorConcurrency;
 
 import ru.ddc.annotations.GuardedBy;
 import ru.ddc.annotations.ThreadSafe;
