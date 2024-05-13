@@ -1,4 +1,4 @@
-package ru.ddc.listing_2_7_deadlock;
+package ru.ddc.c_2_ThreadSafety.s_2_3_Locking._2_Reentrancy.l_2_7_CodeThatWouldDeadlockIfIntrinsicLocksWereNotReentrant;
 
 /*
 Повторная входимость способствует инкапсуляции замкового поведения
