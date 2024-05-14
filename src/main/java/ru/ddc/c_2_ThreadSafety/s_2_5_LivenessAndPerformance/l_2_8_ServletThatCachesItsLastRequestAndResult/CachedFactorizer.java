@@ -1,4 +1,4 @@
-package ru.ddc.listing_2_8_synchronizedservlet_2;
+package ru.ddc.c_2_ThreadSafety.s_2_5_LivenessAndPerformance.l_2_8_ServletThatCachesItsLastRequestAndResult;
 
 import ru.ddc.annotations.GuardedBy;
 import ru.ddc.annotations.ThreadSafe;
