@@ -1,4 +1,4 @@
-package ru.ddc.listing_3_1_visibility;
+package ru.ddc.c_3_SharingObjects.s_3_1_Visibility._0_.l_3_1_SharingVariablesWithoutSynchronization;
 
 /*
 Класс NoVisibility в листинге 3.1 иллюстрирует, как потоки используют
