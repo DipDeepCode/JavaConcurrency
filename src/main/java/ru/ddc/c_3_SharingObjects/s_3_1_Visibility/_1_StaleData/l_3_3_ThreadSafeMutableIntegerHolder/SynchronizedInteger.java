@@ -1,4 +1,4 @@
-package ru.ddc.listing_3_3_synchronizedinteger;
+package ru.ddc.c_3_SharingObjects.s_3_1_Visibility._1_StaleData.l_3_3_ThreadSafeMutableIntegerHolder;
 
 import ru.ddc.annotations.GuardedBy;
 import ru.ddc.annotations.ThreadSafe;
