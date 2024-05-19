@@ -1,4 +1,4 @@
-package ru.ddc.listing_3_4_volatile;
+package ru.ddc.c_3_SharingObjects.s_3_1_Visibility._4_VolatileVariables.l_3_4_CountingSheep;
 
 /*
 Листинг 3.4 иллюстрирует типичное использование волатильных переменных.
