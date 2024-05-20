@@ -1,4 +1,4 @@
-package ru.ddc.listing_3_5_publishing;
+package ru.ddc.c_3_SharingObjects.s_3_2_PublicationAndEscape._0_.l_3_5_PublishingAnObject;
 
 import java.util.HashSet;
 import java.util.Set;
