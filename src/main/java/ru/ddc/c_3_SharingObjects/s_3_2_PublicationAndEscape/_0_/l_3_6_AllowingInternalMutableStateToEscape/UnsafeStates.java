@@ -1,4 +1,4 @@
-package ru.ddc.listing_3_6_publishing2;
+package ru.ddc.c_3_SharingObjects.s_3_2_PublicationAndEscape._0_.l_3_6_AllowingInternalMutableStateToEscape;
 
 /*
 Класс UnsafeStates в листинге 3.6 старается опубликовать массив аббревиатур приватно.
