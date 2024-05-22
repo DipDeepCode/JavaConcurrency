@@ -1,4 +1,4 @@
-package ru.ddc.listing_3_7_publishing3;
+package ru.ddc.c_3_SharingObjects.s_3_2_PublicationAndEscape._0_.l_3_7_ImplicitlyAllowingTheThisReferenceToEscape;
 
 /*
 Еще одним механизмом публикации объекта или его внутреннего состояния
