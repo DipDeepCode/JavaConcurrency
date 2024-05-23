@@ -1,4 +1,4 @@
-package ru.ddc.listing_3_8_safelistener;
+package ru.ddc.c_3_SharingObjects.s_3_2_PublicationAndEscape._1_SafeConstructionPractices.l_3_8_UsingAFactoryMethodToPreventTheThisReferenceFromEscapingDuringConstruction;
 
 /*
 Чтобы зарегистрировать слушателя событий или запустить поток из
