@@ -1,4 +1,4 @@
-package ru.ddc.listing_3_9_stackconfinement;
+package ru.ddc.c_3_SharingObjects.s_3_3_ThreadConfinement._2_StackConfinement.l_3_9_ThreadConfinementOfLocalPrimitiveAndReferenceVariables;
 
 import java.util.Collection;
 import java.util.SortedSet;
