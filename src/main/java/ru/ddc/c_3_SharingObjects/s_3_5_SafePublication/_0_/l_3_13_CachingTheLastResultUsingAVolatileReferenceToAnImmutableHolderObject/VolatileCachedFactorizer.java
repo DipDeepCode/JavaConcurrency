@@ -1,7 +1,7 @@
-package ru.ddc.listing_3_13_volatilecachedservlet;
+package ru.ddc.c_3_SharingObjects.s_3_5_SafePublication._0_.l_3_13_CachingTheLastResultUsingAVolatileReferenceToAnImmutableHolderObject;
 
 import ru.ddc.annotations.ThreadSafe;
-import ru.ddc.listing_3_12_immutabecacheholder.OneValueCache;
+import ru.ddc.c_3_SharingObjects.s_3_4_Immutability._2_Example_UsingVolatileToPublishImmutableObjects.l_3_12_ImmutableHolderForCachingANumberAndItsFactors.OneValueCache;
 import ru.ddc.tools.Servlet;
 import ru.ddc.tools.ServletRequest;
 import ru.ddc.tools.ServletResponse;
