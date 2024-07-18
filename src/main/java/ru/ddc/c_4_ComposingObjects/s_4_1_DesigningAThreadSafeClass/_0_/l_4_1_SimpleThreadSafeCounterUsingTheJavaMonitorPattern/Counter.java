@@ -1,4 +1,4 @@
-package ru.ddc.listing_4_1_simplethreadsafecounter;
+package ru.ddc.c_4_ComposingObjects.s_4_1_DesigningAThreadSafeClass._0_.l_4_1_SimpleThreadSafeCounterUsingTheJavaMonitorPattern;
 
 import ru.ddc.annotations.GuardedBy;
 import ru.ddc.annotations.ThreadSafe;
