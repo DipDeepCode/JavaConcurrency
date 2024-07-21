@@ -1,4 +1,4 @@
-package ru.ddc.listing_4_2_oneinstance;
+package ru.ddc.c_4_ComposingObjects.s_4_2_InstanceConfinement._0_.l_4_2_UsingConfinementToEnsureThreadSafety;
 
 import ru.ddc.annotations.GuardedBy;
 import ru.ddc.annotations.ThreadSafe;
