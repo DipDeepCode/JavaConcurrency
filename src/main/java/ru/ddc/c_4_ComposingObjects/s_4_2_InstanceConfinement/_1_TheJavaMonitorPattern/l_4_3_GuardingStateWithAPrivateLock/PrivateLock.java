@@ -1,4 +1,4 @@
-package ru.ddc.listing_4_3_privatelock;
+package ru.ddc.c_4_ComposingObjects.s_4_2_InstanceConfinement._1_TheJavaMonitorPattern.l_4_3_GuardingStateWithAPrivateLock;
 
 /*
 Вместо мониторного шаблона Java, который является просто соглашением,
