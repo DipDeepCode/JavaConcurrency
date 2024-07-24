@@ -1,7 +1,8 @@
-package ru.ddc.listing_4_4_and_4_5_monitortracker;
+package ru.ddc.c_4_ComposingObjects.s_4_2_InstanceConfinement._2_ExampleTrackingFleetVehicles.l_4_4_MonitorBasedVehicleTrackerImplementation;
 
 import ru.ddc.annotations.GuardedBy;
 import ru.ddc.annotations.ThreadSafe;
+import ru.ddc.c_4_ComposingObjects.s_4_2_InstanceConfinement._2_ExampleTrackingFleetVehicles.l_4_5_MutablePointClassSimilarToJavaAwtPoint.MutablePoint;
 
 import java.util.Collections;
 import java.util.HashMap;
