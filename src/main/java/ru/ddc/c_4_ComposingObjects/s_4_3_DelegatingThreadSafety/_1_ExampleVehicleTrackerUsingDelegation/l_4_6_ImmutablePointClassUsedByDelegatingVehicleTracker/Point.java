@@ -1,4 +1,4 @@
-package ru.ddc.listing_4_6_and_4_7_and_4_8_delegatingthreadsafety;
+package ru.ddc.c_4_ComposingObjects.s_4_3_DelegatingThreadSafety._1_ExampleVehicleTrackerUsingDelegation.l_4_6_ImmutablePointClassUsedByDelegatingVehicleTracker;
 
 import ru.ddc.annotations.Immutable;
 
