@@ -1,6 +1,5 @@
-package ru.ddc.listing_4_9_delegatingtosomefilds;
+package ru.ddc.c_4_ComposingObjects.s_4_3_DelegatingThreadSafety._2_IndependentStateVariables.l_4_9_DelegatingThreadSafetyToMultipleUnderlyingStateVariables;
 
-import java.security.Key;
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
 
