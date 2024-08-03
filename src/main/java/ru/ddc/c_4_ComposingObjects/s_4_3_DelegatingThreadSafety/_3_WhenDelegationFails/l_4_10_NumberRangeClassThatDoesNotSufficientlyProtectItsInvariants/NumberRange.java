@@ -1,4 +1,4 @@
-package ru.ddc.listing_4_10_faildelegating;
+package ru.ddc.c_4_ComposingObjects.s_4_3_DelegatingThreadSafety._3_WhenDelegationFails.l_4_10_NumberRangeClassThatDoesNotSufficientlyProtectItsInvariants;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
