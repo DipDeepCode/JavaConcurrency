@@ -1,6 +1,7 @@
-package ru.ddc.listing_4_11_and_4_12_publishingvehicletracker;
+package ru.ddc.c_4_ComposingObjects.s_4_3_DelegatingThreadSafety._5_ExampleVehicleTrackerThatPublishesItsState.l_4_12_VehicleTrackerThatSafelyPublishesUnderlyingState;
 
 import ru.ddc.annotations.ThreadSafe;
+import ru.ddc.c_4_ComposingObjects.s_4_3_DelegatingThreadSafety._5_ExampleVehicleTrackerThatPublishesItsState.l_4_11_ThreadSafeMutablePointClass.SafePoint;
 
 import java.util.Collections;
 import java.util.Map;
