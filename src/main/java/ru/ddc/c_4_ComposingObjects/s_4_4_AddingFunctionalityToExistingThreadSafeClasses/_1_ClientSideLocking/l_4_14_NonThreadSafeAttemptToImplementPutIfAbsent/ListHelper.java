@@ -1,4 +1,4 @@
-package ru.ddc.listing_4_14_listhelper;
+package ru.ddc.c_4_ComposingObjects.s_4_4_AddingFunctionalityToExistingThreadSafeClasses._1_ClientSideLocking.l_4_14_NonThreadSafeAttemptToImplementPutIfAbsent;
 
 import ru.ddc.annotations.NotThreadSafe;
 
