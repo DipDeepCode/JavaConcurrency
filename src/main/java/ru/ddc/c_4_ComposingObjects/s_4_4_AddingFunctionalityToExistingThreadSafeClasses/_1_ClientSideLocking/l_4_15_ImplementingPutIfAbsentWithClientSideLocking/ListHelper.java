@@ -1,4 +1,4 @@
-package ru.ddc.listing_4_15_listhelper2;
+package ru.ddc.c_4_ComposingObjects.s_4_4_AddingFunctionalityToExistingThreadSafeClasses._1_ClientSideLocking.l_4_15_ImplementingPutIfAbsentWithClientSideLocking;
 
 import ru.ddc.annotations.ThreadSafe;
 
