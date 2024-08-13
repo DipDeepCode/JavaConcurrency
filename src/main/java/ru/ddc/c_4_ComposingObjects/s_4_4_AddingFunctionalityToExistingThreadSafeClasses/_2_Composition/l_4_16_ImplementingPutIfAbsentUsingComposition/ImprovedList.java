@@ -1,4 +1,4 @@
-package ru.ddc.listing_4_16_composition;
+package ru.ddc.c_4_ComposingObjects.s_4_4_AddingFunctionalityToExistingThreadSafeClasses._2_Composition.l_4_16_ImplementingPutIfAbsentUsingComposition;
 
 import ru.ddc.annotations.ThreadSafe;
 
