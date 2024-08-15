@@ -1,4 +1,4 @@
-package ru.ddc.listing_5_1_and_5_2_compoundactions;
+package ru.ddc.c_5_BuildingBlocks.s_5_1_SynchronizedCollections._1_ProblemsWithSynchronizedCollections.l_5_1_CompoundActionsOnAVectorThatMayProduceConfusingResults;
 
 import java.util.Vector;
 
