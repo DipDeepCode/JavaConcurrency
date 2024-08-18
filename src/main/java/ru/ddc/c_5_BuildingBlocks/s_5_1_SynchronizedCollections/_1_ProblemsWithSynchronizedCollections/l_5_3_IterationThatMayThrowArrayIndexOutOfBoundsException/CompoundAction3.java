@@ -1,4 +1,4 @@
-package ru.ddc.listing_5_3_and_5_4_compoundactioniteration;
+package ru.ddc.c_5_BuildingBlocks.s_5_1_SynchronizedCollections._1_ProblemsWithSynchronizedCollections.l_5_3_IterationThatMayThrowArrayIndexOutOfBoundsException;
 
 import java.util.Vector;
 
