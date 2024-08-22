@@ -1,6 +1,6 @@
-package ru.ddc.listing_5_5_concurrentmodificationexception;
+package ru.ddc.c_5_BuildingBlocks.s_5_1_SynchronizedCollections._2_IteratorsAndConcurrentmodificationexception.l_5_5_IteratingAListWithAnIterator;
 
-import ru.ddc.listing_2_7_deadlock.Widget;
+import ru.ddc.c_2_ThreadSafety.s_2_3_Locking._2_Reentrancy.l_2_7_CodeThatWouldDeadlockIfIntrinsicLocksWereNotReentrant.Widget;
 
 import java.util.ArrayList;
 import java.util.Collections;
